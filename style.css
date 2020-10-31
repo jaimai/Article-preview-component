@@ -1,0 +1,53 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    background-color: hsl(210, 46%, 95%);
+}
+
+.container{
+    display: flex;
+    background-color: white;
+    margin: 15em;
+    border-radius: 1em;
+}
+.right p {
+    color: hsl(214, 17%, 51%);
+}
+.footer-center p {
+    color:  hsl(212, 23%, 69%);
+}
+
+h1, h3 {
+    color: hsl(217, 19%, 35%) ;
+}
+
+.footer {
+    display: flex;    
+}
+
+.right {
+    margin: 3em;
+}
+
+.left img {
+    height: 25em;
+}
+
+.footer-left img {
+    border-radius: 50%;
+    width: 4em;
+    height: 4em;
+
+}
+
+.footer-left {
+    margin: 1em;
+}
+
+.footer-center {
+    flex: 1;
+}
+
+.footer-right {
+    flex: 1;
+}
+
